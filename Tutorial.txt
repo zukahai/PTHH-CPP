@@ -1,0 +1,11 @@
+Mở file trên bất cứ editor nào có cài IDE C++
+
+Cách nhập phương trình hóa học
+
+- Viết hoa mỗi chứ cái đầu của mỗi nguyên tố ví dụ: Al, Cl, AlCl2, H2O
+- Dấu mũi tên trong phương trình sẽ thay bằng dấu '=' ví dụ H2 + O2 = H2O
+ Nhập xong thì bấm phím Enter và chờ kêt quả nhé
+
+--------------------------------------------------
+Liện hệ nếu gặp vấn đề:
+fb.com/chiatayde
