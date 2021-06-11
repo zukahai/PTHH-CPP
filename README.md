@@ -121,7 +121,7 @@ d = bcnn(3, 1, 3) = 3, a = 2, b = 3, c = 1
 2Al + 3H2SO4 → Al2(SO4)3 + 3H2
 
 ### 4. Kết
-Trên đây là các mà mình đã viết ra chương trình cân bằng phương trình hóa học, các bạn có thể tham khảo code c++ của mình tại đây.
+Trên đây là các mà mình đã viết ra chương trình cân bằng phương trình hóa học, các bạn có thể tham khảo code c++ của mình [Tại đây](https://github.com/zukahai/PTHH-CPP/blob/master/PTHH.cpp)
 
 Video demo:
 [<p align="center"> <img src="https://github.com/zukahai/PTHH-CPP/blob/master/ImageBlog/4.png" alt="blogimage" /> </p>](https://codelearn.io/Media/Default/Users/HaiZuka/HaiZuka/HaiZuka.mp4)
