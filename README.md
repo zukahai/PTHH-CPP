@@ -1,5 +1,5 @@
 ## <p align="center"> Cân bằng Phương trình hóa học bằng C++ </p>
-<p align="center"> <img src="https://github.com/zukahai/PTHH-CPP/blob/master/ImageBlog/1.png" alt="Tieude" /> </p>
+<p align="center"> <img src="https://github.com/zukahai/HaiZuka/blob/master/Images/PTHH/1.png" alt="Tieude" /> </p>
 
 ## Cân Bằng Phương Trình Hóa Học Bằng C++
 Hóa học là một nỗi sợ và có thể nói là nỗi ám ảnh của đa số học sinh phải không nào, các phương trình thực sự quá phức tạp ở giai đoạn cân bằng phương trình, vậy nếu như chúng ta tạo ra một chương trình cho phép cân bằng PTHH một cách chớp nhoáng thì sao nhỉ?
@@ -81,7 +81,7 @@ a + 0b - c + 0d = 0
 0a + b + 0c - 2d = 0
 0a + b - 3c + 0d = 0
 Ta sẽ đưa hệ trên vào ma trận tuyến tính và biến đổi nó về ma trận đường chéo:
-<p align="center"> <img src="https://github.com/zukahai/PTHH-CPP/blob/master/ImageBlog/2.png" alt="Imblog" /> </p>
+<p align="center"> <img src="https://github.com/zukahai/HaiZuka/blob/master/Images/PTHH/2.png" alt="Imblog" /> </p>
 Lúc này ta có hệ phương trình:
 3a = 2d
 b = 2d
@@ -106,7 +106,7 @@ a + 0b - 2c + 0d = 0
 0a + 2b + 0c - 2d = 0
 0a + 4b - 12c + 0d = 0
 Ta sẽ đưa hệ trên vào ma trận tuyến tính và biến đổi nó về ma trận đường chéo:
-<p align="center"> <img src="https://github.com/zukahai/PTHH-CPP/blob/master/ImageBlog/3.png" alt="Imblog" /> </p>
+<p align="center"> <img src="https://github.com/zukahai/HaiZuka/blob/master/Images/PTHH/3.png" alt="Imblog" /> </p>
 Lúc này ta có hệ:
 - 3a = 2d
 - 2b = 2d
@@ -124,6 +124,6 @@ d = bcnn(3, 1, 3) = 3, a = 2, b = 3, c = 1
 Trên đây là các mà mình đã viết ra chương trình cân bằng phương trình hóa học, các bạn có thể tham khảo code c++ của mình [Tại đây](https://github.com/zukahai/PTHH-CPP/blob/master/PTHH.cpp)
 
 Video demo:
-[<p align="center"> <img src="https://github.com/zukahai/PTHH-CPP/blob/master/ImageBlog/4.png" alt="blogimage" /> </p>](https://codelearn.io/Media/Default/Users/HaiZuka/HaiZuka/HaiZuka.mp4)
+[<p align="center"> <img src="https://github.com/zukahai/HaiZuka/blob/master/Images/PTHH/4.png" alt="blogimage" /> </p>](https://codelearn.io/Media/Default/Users/HaiZuka/HaiZuka/HaiZuka.mp4)
 
 ## <p align="center">  :tv: Thanks for whatching :earth_africa: </p>
